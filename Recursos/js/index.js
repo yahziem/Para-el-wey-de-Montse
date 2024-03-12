@@ -9,6 +9,11 @@ const imageUrls = [
     'https://yahzi.000webhostapp.com/mensajes/5.jpg',
     'https://yahzi.000webhostapp.com/mensajes/6.jpg',
     'https://yahzi.000webhostapp.com/mensajes/7.jpg',
+    'https://yahzi.000webhostapp.com/mensajes/8.jpg',
+    'https://yahzi.000webhostapp.com/mensajes/9.jpg',
+    'https://yahzi.000webhostapp.com/mensajes/10.jpg',
+    'https://yahzi.000webhostapp.com/mensajes/11.jpg',
+    
     // Agrega más URL de imágenes según sea necesario
 ];
 
