@@ -24,7 +24,6 @@ nav ul li a {
   color: #fff;
   font-weight: bold;
   padding: 5px 10px; /* Agregar un poco de espacio entre el texto y el borde de los enlaces */
-  border: 1px solid #fff; /* Agregar un borde blanco a los enlaces */
   border-radius: 5px; /* Agregar esquinas redondeadas a los enlaces */
 }
 
