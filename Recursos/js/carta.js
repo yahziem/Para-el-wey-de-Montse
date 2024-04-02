@@ -8,8 +8,6 @@ const imageUrls = [
     'https://yahzi.000webhostapp.com/mensajes/carta/4.jpg',
     'https://yahzi.000webhostapp.com/mensajes/carta/5.jpg',
     'https://yahzi.000webhostapp.com/mensajes/carta/6.jpg',
-    
-    
     // Agrega más URL de imágenes según sea necesario
 ];
 
@@ -25,9 +23,8 @@ function createGalleryItem(url) {
     img.alt = url; // Cambiado para mostrar la URL de la imagen en caso de que el enlace esté roto
 
     // Comentar las siguientes líneas para usar el tamaño original de las imágenes
-    // img.style.width = '500px';
-    // img.style.height = '500px';
-    // img.style.objectFit = 'cover';
+    img.style.maxWidth = '100%'; // Ajuste para asegurar que la imagen se ajuste al ancho del contenedor
+    img.style.height = 'auto'; // Permitir que la altura se ajuste automáticamente
 
     // Agregar evento de clic para agrandar la imagen
     imgContainer.addEventListener('click', () => {

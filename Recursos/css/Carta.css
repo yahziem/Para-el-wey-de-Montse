@@ -4,17 +4,6 @@ body {
   font-family: Arial, sans-serif;
   color: #ffffff; /* Cambiar el color del texto a blanco */
 }
-
-.logo {
-  text-align: center;
-  margin-top: 20px;
-}
-
-.logo img {
-  width: 100px;
-  height: 100px;
-}
-
 nav {
   text-align: center;
   margin-top: 20px; /* Agregar espacio encima del menú de navegación */
