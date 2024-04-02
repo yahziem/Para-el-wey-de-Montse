@@ -2,13 +2,13 @@ const galleryContainer = document.getElementById('galleryContainer');
 
 // Puedes reemplazar estas URL con las de tus propias imágenes
 const imageUrls = [
-    'https://yahzi.000webhostapp.com/mensajes/Carta/1.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/Carta/2.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/Carta/3.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/Carta/4.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/Carta/5.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/Carta/6.jpg',
-
+    'https://yahzi.000webhostapp.com/mensajes/carta/1.jpg',
+    'https://yahzi.000webhostapp.com/mensajes/carta/2.jpg',
+    'https://yahzi.000webhostapp.com/mensajes/carta/3.jpg',
+    'https://yahzi.000webhostapp.com/mensajes/carta/4.jpg',
+    'https://yahzi.000webhostapp.com/mensajes/carta/5.jpg',
+    'https://yahzi.000webhostapp.com/mensajes/carta/6.jpg',
+    
     
     // Agrega más URL de imágenes según sea necesario
 ];
