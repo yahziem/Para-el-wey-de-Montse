@@ -25,9 +25,9 @@ function createGalleryItem(url) {
     img.alt = url; // Cambiado para mostrar la URL de la imagen en caso de que el enlace esté roto
 
     // Comentar las siguientes líneas para usar el tamaño original de las imágenes
-     img.style.width = '500px';
-     img.style.height = '500px';
-     img.style.objectFit = 'cover';
+     //img.style.width = '500px';
+     //img.style.height = '500px';
+     //img.style.objectFit = 'cover';
 
     // Agregar evento de clic para agrandar la imagen
     imgContainer.addEventListener('click', () => {
