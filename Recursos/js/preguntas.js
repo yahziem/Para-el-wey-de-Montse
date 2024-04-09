@@ -9,6 +9,26 @@ const questions = [
     choices: ["en el cerro","en san luis", "no me acuerdo"],
     correctAnswer: "en el cerro"
   },
+  {
+    question: " ¿Cuál es tu recuerdo favorito de nuestro tiempo juntos?",
+    choices: ["en el cerro","cuando nos quedamos platicando hasta tarde", "no me acuerdo"],
+    correctAnswer: "cuando nos quedamos platicando hasta tarde"
+  },
+  {
+    question: " ¿Cuál crees que es nuestro mayor desafío como pareja y cómo lo superamos?",
+    choices: ["La Majo","el mayor desafío la distancia, lo superamos aprovechando el tiempo cuando nos vemos", "alch no me acuerdo"],
+    correctAnswer: "el mayor desafío la distancia, lo superamos aprovechando el tiempo cuando nos vemos"
+  },
+  {
+    question: " ¿Hay algo que te arrepientas de no haber hecho en nuestra relación? ",
+    choices: ["si, todavía no tener una cita asterik","Tomar en el tronco", "alch no se"],
+    correctAnswer: "si, todavía no tener una cita asterik"
+  },
+  {
+    question: " ¿Cómo crees que hemos cambiado el uno al otro desde que nos conocimos?  ",
+    choices: ["Nuestra forma de amar","Tomar en el tronco", "cambios mentales, es decir, teniendo una perspectiva ya de un futuro y el controlar impulsos de ambos"],
+    correctAnswer: "cambios mentales, es decir, teniendo una perspectiva ya de un futuro y el controlar impulsos de ambos"
+  },
 ];
 
 let currentQuestion = 0;

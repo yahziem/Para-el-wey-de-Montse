@@ -2,19 +2,19 @@ const galleryContainer = document.getElementById('galleryContainer');
 
 // Puedes reemplazar estas URL con las de tus propias imágenes
 const imageUrls = [
-    'https://yahzi.000webhostapp.com/mensajes/galeria/1.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/galeria/2.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/galeria/3.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/galeria/4.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/galeria/5.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/galeria/6.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/galeria/7.jpg',,
-    'https://yahzi.000webhostapp.com/mensajes/galeria/8.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/galeria/9.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/galeria/10.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/galeria/11.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/galeria/12.jpg',
-    'https://yahzi.000webhostapp.com/mensajes/galeria/13.jpg',
+    'https://raw.githubusercontent.com/yahziem/Para-el-wey-de-Montse/main/Recursos/galeria/1.jpg',
+    'https://raw.githubusercontent.com/yahziem/Para-el-wey-de-Montse/main/Recursos/galeria/2.jpg',
+    'https://raw.githubusercontent.com/yahziem/Para-el-wey-de-Montse/main/Recursos/galeria/3.jpg',
+    'https://raw.githubusercontent.com/yahziem/Para-el-wey-de-Montse/main/Recursos/galeria/4.jpg',
+    'https://raw.githubusercontent.com/yahziem/Para-el-wey-de-Montse/main/Recursos/galeria/5.jpg',
+    'https://raw.githubusercontent.com/yahziem/Para-el-wey-de-Montse/main/Recursos/galeria/6.jpg',
+    'https://raw.githubusercontent.com/yahziem/Para-el-wey-de-Montse/main/Recursos/galeria/7.jpg',
+    'https://raw.githubusercontent.com/yahziem/Para-el-wey-de-Montse/main/Recursos/galeria/8.jpg',
+    'https://raw.githubusercontent.com/yahziem/Para-el-wey-de-Montse/main/Recursos/galeria/9.jpg',
+    'https://raw.githubusercontent.com/yahziem/Para-el-wey-de-Montse/main/Recursos/galeria/10.jpg',
+    'https://raw.githubusercontent.com/yahziem/Para-el-wey-de-Montse/main/Recursos/galeria/11.jpg',
+    'https://raw.githubusercontent.com/yahziem/Para-el-wey-de-Montse/main/Recursos/galeria/12.jpg',
+    'https://raw.githubusercontent.com/yahziem/Para-el-wey-de-Montse/main/Recursos/galeria/13.jpg',
     
     // Agrega más URL de imágenes según sea necesario
 ];
