@@ -4,6 +4,16 @@ body {
   font-family: Arial, sans-serif;
 }
 
+.logo {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.logo img {
+  width: 100px;
+  height: 100px;
+}
+
 nav {
   text-align: center;
 }
